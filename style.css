@@ -18,11 +18,9 @@ h3{
 		text-align: center;
 }
 
-/*p{
-	color: red;
-	border: 1px solid blue;
-}*/
-
-p.greet{
-	border: 2px solid black;
+p{
+	border: 1px solid black;
+}
+table{
+	text-align: center;
 }
