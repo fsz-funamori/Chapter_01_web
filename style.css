@@ -6,6 +6,18 @@ h1{
 	text-align: center;
 }
 
+h2{
+	color: chocolate;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3{
+	color:darkred;
+		font-size: 30px;
+		text-align: center;
+}
+
 p{
 	color: red;
 	border: 1px solid blue;
