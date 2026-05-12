@@ -20,8 +20,15 @@ h3 {
 }
 
 h4 {
+	color: yellow;
+	font-size: 30px;
+	text-align: center;
+}
+
+h5 {
 	color: darkturquoise;
 	font-size: 30px;
+	text-align: center;
 }
 
 p {
