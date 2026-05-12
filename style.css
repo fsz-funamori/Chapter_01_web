@@ -1,26 +1,34 @@
 @charset "UTF-8";
 
-h1{
-	color:green;
+h1 {
+	color: green;
 	font-size: 30px;
 	text-align: center;
+	text-shadow: 3px;
 }
 
-h2{
+h2 {
 	color: chocolate;
 	font-size: 30px;
 	text-align: center;
 }
 
-h3{
-	color:darkred;
-		font-size: 30px;
-		text-align: center;
+h3 {
+	color: darkred;
+	font-size: 30px;
+	text-align: center;
 }
 
-p{
+h4 {
+	color: darkturquoise;
+	font-size: 30px;
+	text-align: center
+}
+
+p {
 	border: 1px solid black;
 }
-table{
-	text-align: center;
+
+table {
+	margin: 0 auto;
 }
