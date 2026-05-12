@@ -39,3 +39,8 @@ table {
 	margin: 0 auto;
 	border-collapse: collapse;
 }
+
+img {
+	max-width: 100%;
+	height: auto;
+}
