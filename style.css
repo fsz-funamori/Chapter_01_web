@@ -18,11 +18,11 @@ h3{
 		text-align: center;
 }
 
-p{
+/*p{
 	color: red;
 	border: 1px solid blue;
-}
+}*/
 
-p.profile{
-	color: aqua;
+p.greet{
+	border: 2px solid black;
 }
