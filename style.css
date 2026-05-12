@@ -4,13 +4,14 @@ h1 {
 	color: green;
 	font-size: 30px;
 	text-align: center;
-	text-shadow: 3px;
+	font-style: bold Arial;
 }
 
 h2 {
 	color: chocolate;
 	font-size: 30px;
 	text-align: center;
+	font-family: italic;
 }
 
 h3 {
@@ -29,6 +30,7 @@ h5 {
 	color: darkturquoise;
 	font-size: 30px;
 	text-align: center;
+	font-style: message-box;
 }
 
 p {
@@ -43,4 +45,5 @@ table {
 img {
 	max-width: 200px;
 	height: auto;
+	margin: 0 auto;
 }
